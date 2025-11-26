@@ -68,7 +68,7 @@ const Hero = () => {
                                 variant="contained"
                                 size="large"
                                 startIcon={<CalendarMonthIcon />}
-                                href="https://wa.me/917620766266?text=Hello%20Dr.%20Dipak,%20I%20would%20like%20to%20book%20a%20consultation%20for%20homoeopathy%20treatment."
+                                href="https://wa.me/917620766266?text=Hello%20Dr.%20Deepak,%20I%20would%20like%20to%20book%20a%20consultation%20for%20homoeopathy%20treatment."
                                 target="_blank"
                                 sx={{
                                     backgroundColor: 'primary.main',
@@ -154,7 +154,7 @@ const Hero = () => {
                                 }}
                             >
                                 <img
-                                    src="/src/drdeepak.jpg"
+                                    src="/drdeepak.jpg"
                                     alt="Dr. Deepak S. Pagare"
                                     style={{
                                         width: '100%',
